@@ -66,7 +66,7 @@ int main()
             case 0:
             printf("退出");break;
             default:
-            printf("输入错误");break;
+            printf("输入错误\n");break;
         }
     }while(input);
     
